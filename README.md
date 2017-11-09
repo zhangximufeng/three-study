@@ -1,6 +1,6 @@
 # three
 
-> A Vue.js project
+> A three.js study project
 
 ## Build Setup
 
