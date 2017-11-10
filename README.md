@@ -1,6 +1,6 @@
 # three.js
 
-> This's a three.js study project  
+> This's a three.js study project    
 
 ## Build Setup
   
