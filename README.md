@@ -1,4 +1,4 @@
-# three
+# three.js
 
 > This's a three.js study project  
 
